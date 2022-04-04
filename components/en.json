@@ -1,0 +1,34 @@
+{
+    "translation": {
+        "hello": "Hello",
+        "message": "Yourfarm Mobile App",
+        "alertMessage":"Consultant On Your WhatsApp Chat",
+        "notnow":"Not Now",
+        "continue":"Continue",
+        "app_name":"FarnviewNew",
+        "heaxe":"Find all kind of support for better livestock and poultry farming",
+        "login_header":"Proceed to get expert consultancy",
+        "htreament":"Veterinary Assistance",
+        "farm":"Scientific Farming",
+        "hpr":"Herbal products",
+        "buyfrom":"Farm Inputs",
+        "htreament_sub":"Herbal treatment solution for livestock and poultry",
+        "farm_sub":"Expert consultancy for better farming practice",
+        "hpr_sub":"Ready to Use Herbal formulations",
+        "buyfrom_sub":"Basic requirements for livestock farming",
+        "placeholder_mobile":"Enter your mobile number",
+        "btn_login":"LOGIN",
+        "done":"Done",
+        "sendoptp":"SEND OTP",
+        "otp_header_text":"Enter 6 digit verification code sent to your number",
+        "profession":"Profession",
+        "pincode":"Pincode",
+        "email":"E-mail",
+        "name":"Name",
+        "location":"Location",
+        "profilesaved":"Profile saved",
+        "whatsappmsg":"Need Support for Better Farming Practice",
+      
+        "hi":"hi"
+    }
+}
