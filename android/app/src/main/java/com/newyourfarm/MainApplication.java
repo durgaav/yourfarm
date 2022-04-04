@@ -54,14 +54,14 @@ public class MainApplication extends Application implements ReactApplication {
   }
 
 
-  @Override
-  protected List<ReactPackage> getPackages() {
-      return Arrays.<ReactPackage>asList(
-          new MainReactPackage(),
-            new RNDefaultPreferencePackage(),
-          new RNSharedPreferencesReactPackage() // <--- Add this 
-      );
-  }
+  // @Override
+  // protected List<ReactPackage> getPackages() {
+  //     return Arrays.<ReactPackage>asList(
+  //         new MainReactPackage(),
+  //           new RNDefaultPreferencePackage(),
+  //         new RNSharedPreferencesReactPackage() // <--- Add this 
+  //     );
+  // }
   /**
    * Loads Flipper in React Native templates. Call this in the onCreate method with something like
    * initializeFlipper(this, getReactNativeHost().getReactInstanceManager());
