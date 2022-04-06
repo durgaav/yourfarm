@@ -18,6 +18,8 @@ target 'newyourfarm' do
 
   pod 'RNDefaultPreference', :path => '../node_modules/react-native-default-preference'
 
+  pod 'RNI18n', :path => '../node_modules/react-native-i18n'
+
   target 'newyourfarmTests' do
     inherit! :complete
     # Pods for testing

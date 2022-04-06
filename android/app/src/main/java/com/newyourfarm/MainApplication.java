@@ -5,7 +5,6 @@ import android.content.Context;
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;
 import com.kevinresol.react_native_default_preference.RNDefaultPreferencePackage;
-import com.babisoft.ReactNativeLocalization.ReactNativeLocalizationPackage;
 import com.horcrux.svg.SvgPackage;
 import com.facebook.react.ReactInstanceManager;
 import com.facebook.react.ReactNativeHost;
@@ -54,14 +53,7 @@ public class MainApplication extends Application implements ReactApplication {
   }
 
 
-  // @Override
-  // protected List<ReactPackage> getPackages() {
-  //     return Arrays.<ReactPackage>asList(
-  //         new MainReactPackage(),
-  //           new RNDefaultPreferencePackage(),
-  //         new RNSharedPreferencesReactPackage() // <--- Add this 
-  //     );
-  // }
+ 
   /**
    * Loads Flipper in React Native templates. Call this in the onCreate method with something like
    * initializeFlipper(this, getReactNativeHost().getReactInstanceManager());

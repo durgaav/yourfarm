@@ -9,6 +9,7 @@ import LoginPage from './components/login';
 import ProfileScreen from './components/profile';
 import OTPScreen from './components/otpscreen';
 
+
 const App = () => {
   const isDarkMode = useColorScheme() === 'dark';
 
